@@ -1,0 +1,25 @@
+
+Message - 15/11/2019 00:32:30 : My test type Message in text file
+Warning - 15/11/2019 00:32:30 : My test type Warning in text file
+Error - 15/11/2019 00:32:30 : My test type Error in text file
+Message - 15/11/2019 01:14:09 : My test type Message in text file
+Warning - 15/11/2019 01:14:09 : My test type Warning in text file
+Error - 15/11/2019 01:14:09 : My test type Error in text file
+Message - 15/11/2019 01:15:47 : My test type Message in text file
+Warning - 15/11/2019 01:15:47 : My test type Warning in text file
+Error - 15/11/2019 01:15:47 : My test type Error in text file
+Message - 15/11/2019 01:16:19 : My test type Message in text file
+Warning - 15/11/2019 01:16:19 : My test type Warning in text file
+Error - 15/11/2019 01:16:19 : My test type Error in text file
+Message - 15/11/2019 01:17:35 : My test type Message in text file
+Warning - 15/11/2019 01:17:35 : My test type Warning in text file
+Error - 15/11/2019 01:17:35 : My test type Error in text file
+Message - 15/11/2019 01:18:48 : My test type Message in text file
+Warning - 15/11/2019 01:18:48 : My test type Warning in text file
+Error - 15/11/2019 01:18:48 : My test type Error in text file
+Message - 15/11/2019 01:19:12 : My test type Message in text file
+Warning - 15/11/2019 01:19:12 : My test type Warning in text file
+Error - 15/11/2019 01:19:12 : My test type Error in text file
+Message - 15/11/2019 01:22:10 : Test type Message in text file
+Warning - 15/11/2019 01:22:10 : Test type Warning in text file
+Error - 15/11/2019 01:22:10 : Test type Error in text file

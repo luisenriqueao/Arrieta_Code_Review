@@ -1,0 +1,8 @@
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\bin\Debug\Arrieta_Code_Review.exe.config
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\bin\Debug\Arrieta_Code_Review.exe
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\bin\Debug\Arrieta_Code_Review.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\bin\Debug\CNN.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\bin\Debug\CNN.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\obj\Debug\Arrieta_Code_Review.csprojResolveAssemblyReference.cache
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\obj\Debug\Arrieta_Code_Review.exe
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\Arrieta_Code_Review\obj\Debug\Arrieta_Code_Review.pdb

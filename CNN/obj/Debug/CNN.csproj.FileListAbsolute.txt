@@ -1,0 +1,5 @@
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\CNN\bin\Debug\CNN.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\CNN\bin\Debug\CNN.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\CNN\obj\Debug\CNN.csprojResolveAssemblyReference.cache
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\CNN\obj\Debug\CNN.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\CNN\obj\Debug\CNN.pdb

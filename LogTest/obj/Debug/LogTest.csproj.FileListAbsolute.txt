@@ -1,0 +1,12 @@
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\LogTest.dll.config
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\LogTest.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\LogTest.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\Arrieta_Code_Review.exe
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\CNN.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\Arrieta_Code_Review.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\CNN.pdb
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\obj\Debug\LogTest.csprojResolveAssemblyReference.cache
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\obj\Debug\LogTest.dll
+C:\Users\ENRIQUE\documents\visual studio 2015\Projects\Arrieta_Code_Review\LogTest\obj\Debug\LogTest.pdb
